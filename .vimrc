@@ -13,6 +13,7 @@ set smarttab
 set autoindent
 set smartindent
 syntax on
+retab
 
 if exists('+colorcolumn')
   set colorcolumn=80
